@@ -5,4 +5,4 @@ includes[] = "drupal-org-core.make"
 
 projects[mydistro][type] = profile
 projects[mydistro][download][type] = git
-projects[mydistro][download][url] = "https://github.com/boztek/drupal-distro-project-template.git"
+projects[mydistro][download][url] = "git://github.com/boztek/drupal-distro-template.git"
