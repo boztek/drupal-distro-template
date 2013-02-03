@@ -6,3 +6,4 @@ projects[panels][subdir] = contrib
 projects[views][subdir] = contrib
 
 projects[rules][subdir] = contrib
+projects[token][subdir] = contrib
