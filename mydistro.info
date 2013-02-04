@@ -1,0 +1,5 @@
+core = 7.x
+name = My Distribution
+description = Testing non-standard build workflows
+
+dependencies[] = page_manager
