@@ -7,3 +7,4 @@ projects[views][subdir] = contrib
 
 projects[rules][subdir] = contrib
 projects[token][subdir] = contrib
+projects[module_filter][subdir] = contrib

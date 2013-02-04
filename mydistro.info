@@ -3,3 +3,11 @@ name = My Distribution
 description = Testing non-standard build workflows
 
 dependencies[] = page_manager
+dependencies[] = module_filter
+
+
+; Information added by drush on 2013-02-04
+version = "unknown"
+project = "mydistro"
+datestamp = "1359953087"
+
