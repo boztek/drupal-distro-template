@@ -4,7 +4,7 @@ description = Testing non-standard build workflows
 
 dependencies[] = page_manager
 dependencies[] = module_filter
-
+dependencies[] = panelizer
 
 ; Information added by drush on 2013-02-04
 version = "unknown"
