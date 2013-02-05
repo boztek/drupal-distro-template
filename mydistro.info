@@ -11,3 +11,10 @@ version = "unknown"
 project = "mydistro"
 datestamp = "1359953087"
 
+
+
+; Information added by drush on 2013-02-05
+version = "unknown"
+project = "mydistro"
+datestamp = "1360028247"
+
