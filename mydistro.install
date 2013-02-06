@@ -4,6 +4,8 @@
  * Implements hook_install().
  */
 function mydistro_install() {
+  variable_set('site_name', "Distribution Template");
+
   $enable = array(
     'theme_default' => 'my_distro_theme',
     'admin_theme'   => 'seven',
