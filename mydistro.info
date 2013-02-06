@@ -4,4 +4,6 @@ description = Testing non-standard build workflows
 
 dependencies[] = page_manager
 dependencies[] = module_filter
-dependencies[] = panelizer
+dependencies[] = features
+dependencies[] = toolbar
+dependencies[] = overlay
