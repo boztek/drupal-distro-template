@@ -12,8 +12,7 @@
 // - http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
 (function ($, Drupal, window, document, undefined) {
 
-
-// Place your code here.
+alert('change');
 
 
 })(jQuery, Drupal, this, this.document);
